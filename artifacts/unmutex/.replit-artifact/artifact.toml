@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "UnmuteX"
+description = "A premium editorial website for UnmuteX, a live practice community helping professionals, students, and founders build confidence speaking in meetings, interviews, presentations, and everyday conversations."
+version = "1.0.0"
+id = "artifacts/unmutex"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18698
+
+[services.development]
+run = "pnpm --filter @workspace/unmutex run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/unmutex", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/unmutex/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18698"
+BASE_PATH = "/"

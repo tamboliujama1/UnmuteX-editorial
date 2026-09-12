@@ -1,0 +1,228 @@
+Build a complete, production-ready, fully functional redesign of the Unmutex website.
+
+CURRENT WEBSITE:
+https://unmute-x-k3z1.vercel.app/
+
+REFERENCE WEBSITE:
+https://fondofdesigns.com/
+
+GOAL:
+Completely redesign the Unmutex website UI/UX while preserving the existing Unmutex content, information, sections and business messaging.
+
+IMPORTANT:
+First inspect the current Unmutex website and identify its existing sections and content. Preserve the content. Do not invent statistics, testimonials, services or business claims.
+
+Use Fond of Designs ONLY as visual inspiration for its premium, creative, editorial and immersive feel. Do NOT copy its exact layout, text, branding, images or design. Create an original design for Unmutex.
+
+The final website must NOT look like a basic AI-generated landing page or a conventional corporate/SaaS template.
+
+DESIGN DIRECTION:
+Create a premium, creative, editorial and highly visual experience using:
+
+- Warm off-white/neutral backgrounds
+- Black/dark typography
+- Unmutex orange as the main accent
+- Elegant serif display typography combined with a clean sans-serif
+- Very large expressive headings
+- Strong typography hierarchy
+- Generous whitespace
+- Asymmetric/editorial layouts
+- Large visual imagery
+- Layered and overlapping elements
+- Strong visual storytelling
+- Minimal but sophisticated UI
+
+Avoid excessive cards, repetitive 3-column grids, excessive rounded rectangles, heavy shadows, unnecessary gradients and generic template layouts.
+
+NAVIGATION:
+Create a minimal premium navbar using the existing Unmutex navigation items.
+
+Add:
+- Smooth scrolling
+- Refined hover effects
+- Animated Join Community button
+- Sticky/fixed navigation where appropriate
+- Elegant animated mobile menu
+
+HERO:
+The hero must be visually impressive.
+
+Do NOT use a basic "text left + image right" layout.
+
+Use the existing Unmutex hero content but present it through:
+- Oversized typography
+- Strong composition
+- Layered imagery
+- Asymmetric positioning
+- Generous whitespace
+- Orange emphasis
+
+Add:
+- Staggered text entrance
+- Image reveal/masking
+- Subtle image movement
+- Gentle parallax
+- Smooth transition into the next section
+
+The hero should feel like an immersive experience.
+
+SCROLL & MOTION:
+Make scrolling part of the design.
+
+Use sophisticated, subtle animations such as:
+- Scroll-triggered text reveals
+- Staggered element entrances
+- Image reveal/masking
+- Subtle parallax
+- Gentle image scaling
+- Horizontal movement where appropriate
+- Sticky/pinned sections where useful
+- Smooth section transitions
+- Button and navigation micro-interactions
+
+Do NOT apply the same fade-in animation to every element.
+
+APPROACH:
+Redesign the existing "Speak first. Polish later." section as a major visual statement.
+
+Make the typography dominant and use scroll-based movement and creative composition.
+
+Present the existing Activities content interactively rather than as plain text. Consider animated lists, expanding items or hover-based reveals.
+
+LIVE SESSIONS / INFORMATION:
+Present existing information using typography, numbers, whitespace and motion rather than generic dashboard cards.
+
+STORIES / TESTIMONIALS:
+Create a premium storytelling experience using the existing testimonials.
+
+Avoid a generic review-card grid.
+
+Use:
+- Large testimonial typography
+- Member names/details
+- Strong visual hierarchy
+- Smooth horizontal carousel/movement where appropriate
+- Subtle transitions
+- Elegant controls
+
+Do not invent testimonials.
+
+FOUNDERS / MEMBERS:
+Use the existing content but avoid repetitive cards.
+
+Use editorial layouts with:
+- Large imagery
+- Text beside/overlapping imagery
+- Alternating compositions
+- Scroll reveals
+- Subtle image movement
+- Hover interactions
+
+MARQUEE:
+Retain/improve the orange scrolling marquee if it exists in the current design.
+
+Make it feel integrated into the overall storytelling.
+
+IMAGES:
+Do not place every image inside an identical rounded card.
+
+Use varied proportions, large editorial imagery, cropping, masking, subtle zooming and occasional overlap.
+
+Use existing website images where possible.
+
+SECTION TRANSITIONS:
+The website should feel like ONE continuous visual experience.
+
+Avoid simply stacking unrelated white sections.
+
+Connect sections using:
+- Typography movement
+- Background transitions
+- Overlapping elements
+- Image transitions
+- Marquee movement
+- Scroll interactions
+
+TECHNOLOGY:
+Use:
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Vite or another appropriate React setup
+
+Use reusable components and clean maintainable code.
+
+FUNCTIONALITY:
+This must be a REAL functioning website, not a mockup.
+
+Ensure all:
+- Navigation
+- Buttons
+- CTAs
+- Links
+- Forms, if present
+- Mobile menu
+- Carousels
+- Interactive elements
+- Animations
+
+work correctly.
+
+Do not create fake buttons that do nothing. Preserve existing external links where available.
+
+RESPONSIVE DESIGN:
+Create intentional layouts for:
+- 1440px desktop
+- 1280px
+- 1024px
+- 768px
+- 390px mobile
+
+Do not simply shrink the desktop design for mobile.
+
+Ensure:
+- No horizontal overflow
+- Correct typography
+- Correct image sizing
+- Working touch interactions
+- Smooth mobile animations
+- Proper mobile navigation
+
+PERFORMANCE:
+Keep animations smooth and performant.
+
+Prefer transform/opacity animations where possible.
+Optimize images.
+Avoid excessive animations.
+Respect prefers-reduced-motion.
+
+ACCESSIBILITY:
+Use semantic HTML, proper heading hierarchy, accessible buttons/navigation, meaningful alt text, keyboard navigation and sufficient contrast.
+
+SEO:
+Add an appropriate title, meta description, heading structure and basic Open Graph metadata.
+
+FINAL REVIEW:
+After building, compare the new website against the current Unmutex website and make sure important content has not been removed.
+
+Then critically review the design.
+
+Ask:
+"Does this look like a premium creative/editorial website or a generic AI-generated landing page?"
+
+If it looks generic, improve:
+1. Typography
+2. Composition
+3. Spacing
+4. Imagery
+5. Animations
+6. Section transitions
+7. Interactive details
+
+Do not copy the reference website.
+Do not change the existing Unmutex business content.
+Create an original, polished and immersive Unmutex website.
+
+IMPORTANT:
+Do not stop at a basic first-pass landing page. Prioritize visual impact, art direction, typography, motion, storytelling and interaction quality.
