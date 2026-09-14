@@ -1,5 +1,6 @@
 import { createRoot } from 'react-dom/client';
 
+import '@/lib/gsap';
 import App from './App';
 import { ErrorBoundary } from '@/components/error-boundary';
 
